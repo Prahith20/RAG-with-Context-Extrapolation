@@ -52,7 +52,7 @@ Hence, the concatenation and chunking instead of chunking per page.
 
 ## Prerequisites
 
-- An OpenAI API key and access to `gpt-4o` or `gpt-3.5-turbo` models. Save it in .env file in the application
+- An OpenAI API key and access to `gpt-4o` or `gpt-3.5-turbo` models. Save it in .env file in the application.
 **or**  
 - Use Ollama models to keep the inference private (Ex: `llama3.1:latest`)
 
