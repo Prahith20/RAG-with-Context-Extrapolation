@@ -1,0 +1,12 @@
+langchain==0.1.14
+langchain_experimental==0.0.56
+langchain-community==0.0.31
+faiss-cpu==1.8.0
+unidecode==1.2.0
+pymupdf==1.25.3
+pdfplumber==0.11.0
+sentence-transformers==3.4.1
+openai==1.84.0
+gradio==4.25.0
+flask==2.3.3
+dotenv
